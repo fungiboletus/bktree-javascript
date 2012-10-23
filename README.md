@@ -9,7 +9,7 @@ Burkhard Keller Tree implementation in Javascript.
 var t = new BKTree();
 t.add('lapin')
 t.add('lapine')
-b.search('lapinou')
+t.search('lapinou')
 	=> { 
 		lapin: 2,
 		lapine: 2
